@@ -1,3 +1,18 @@
+/* -----------------------------------------------
+/* Modifying author : Haley Sherwood-Coombs 
+/* haleysherwood.com
+/* GitHub : https://github.com/hsherwoodcoombs/particles.js
+/* 
+/* The following code is a derivative work of 
+/* the code from particles.js developed by Vincent Garreau.
+/* Vencent Garreau - vincentgarreau.com
+/* Github: https://github.com/VincentGarreau/particles.js
+/* 
+/* It is licensed under MIT Open Source:
+/* MIT license: http://opensource.org/licenses/MIT
+/* v1.0.0
+/* ----------------------------------------------- */
+
 {
   "name": "particles.js",
   "main": "particles.js",
